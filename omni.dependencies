@@ -9,6 +9,6 @@
 		"remote":"github",
 		"repository":"LineageOS/android_vendor_qcom_opensource_cryptfs_hw",
 		"target_path":"device/qcom",
-		"revision":"lineage-18.1"
+		"revision":"lineage-15.0"
 	}
 ]
