@@ -5,6 +5,8 @@
 		"target_path":"kernel/samsung/exynos7870",
 		"revision":"twrp"
 	}
+]
+[
 	{
 		"remote":"github",
 		"repository":"LineageOS/android_vendor_qcom_opensource_cryptfs_hw",
