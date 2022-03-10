@@ -45,7 +45,7 @@ TARGET_NO_RADIOIMAGE := true
 
 # Crypto
 # TARGET_CRYPTFS_HW_PATH := device/qcom/common/cryptfs_hw
-TARGET_HW_DISK_ENCRYPTION := true
+# TARGET_HW_DISK_ENCRYPTION := true
 TW_INCLUDE_CRYPTO := true
 TW_INCLUDE_CRYPTO_FBE := true
 TW_INCLUDE_FBE := true
