@@ -18,3 +18,8 @@ LOCAL_PATH := device/samsung/j7xelte
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_j7xelte.mk
+
+COMMON_LUNCH_CHOICES := \
+    omni_j7xelte-user \
+    omni_j7xelte-userdebug \
+    omni_j7xelte-eng
