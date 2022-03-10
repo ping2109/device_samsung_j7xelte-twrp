@@ -25,7 +25,7 @@ PRODUCT_PACKAGES += \
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := j7xelte
-PRODUCT_NAME := j7xelte
+PRODUCT_NAME := omni_j7xelte
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := Galaxy J7 2016
 PRODUCT_MANUFACTURER := Samsung
